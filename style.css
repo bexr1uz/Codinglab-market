@@ -1,0 +1,56 @@
+html{
+    background-color: gray;
+   }
+   ul{
+     list-style-type: none;
+     overflow: hidden;
+     background-color: #333333;
+     margin-left: -10px;
+     margin-right: -10px;
+     margin-bottom: -45px;
+     margin-top: -10px;
+   }
+   
+   li{
+    float: right;	 
+   }
+   li a { 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    margin-left: 80px;
+   }
+   li a:hover {
+     background-color: green;
+     text-align: center;
+     width: 100%;
+   }
+   h1{
+    color: white;
+  margin: auto;
+  padding-left: 40px;
+  padding-right: 50px;
+  margin: 5px ;
+ }
+ .matn{
+  margin-top: 300px;
+  text-align: center;
+ }
+ .f{
+  border: 2px solid;
+  text-align: center;
+  width: 240px;
+  height: 380px;
+  margin: 10px;
+ }
+ img{
+  width: 200px;
+  height: 220px;
+ }
+ fieldset{
+  margin-top: 60px;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+ }
